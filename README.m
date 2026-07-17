@@ -1,6 +1,6 @@
-<video autoplay muted loop playsinline width="100%">
-  <source src="https://github.com/user-attachments/assets/3681e759-c5ef-4578-b3ef-2962106a10a3" type="video/mp4">
-</video>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/3681e759-c5ef-4578-b3ef-2962106a10a3" width="100%" autoplay muted loop playsinline></video>
+</p>
 # Iris Classification Pipeline — DecodeLabs P2
 
 Extended version  of DecodeLabs Project 2. Goes beyond the basic KNN requirement by running a full multi-algorithm comparison pipeline with automated tuning, rich visualisations, and a formatted terminal report.
